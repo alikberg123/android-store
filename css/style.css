@@ -1,0 +1,31 @@
+h1{
+  color:silver;
+  background-color: rgb(188, 0, 0);
+  font-family: monospace;
+  border-radius: 8px;
+  width:230px;
+  border-style: solid;
+  border-color:orange;
+}
+input{
+  background-color:rgb(95, 96, 97);
+  border-width: 3px;
+  width:250px;
+  height:25px;
+  border-radius:10px;
+  color: rgb(188, 0, 0);
+}
+input::placeholder{
+  color:silver;
+  border-radius: 10px;
+}
+button{
+  background-color:red;
+  color: white;
+  width: 150px;
+  height: 40px;
+  border-radius:25px;
+  border-width:1px;
+  border-color: orange;
+
+}
