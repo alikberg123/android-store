@@ -1,5 +1,3 @@
-//clicer
-alert("hello")
-var a = 12
-a = 14
-console.log(a)
+let hello = 2;
+hello = 4;
+Input.write(hello)
