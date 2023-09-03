@@ -20,7 +20,7 @@ input{
   width:250px;
   height:25px;
   border-radius:10px;
-  color: rgb(125, 125, 125);
+  color: rgb(255, 255, 255);
 
 }
 input::placeholder{
@@ -41,4 +41,12 @@ h2{
   background:red;
   color:red;
   margin:22px;
+}
+#d1{
+background:red;
+width:265px;
+height: 232px ;
+border-radius: 8px;
+border-style: solid;
+border-color:orange;
 }
