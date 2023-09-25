@@ -43,10 +43,14 @@ h2{
   margin:22px;
 }
 #d1{
-background:red;
+background-color:red;
 width:265px;
 height: 232px ;
 border-radius: 8px;
 border-style: solid;
 border-color:orange;
+}
+
+a{
+color:silver;
 }
