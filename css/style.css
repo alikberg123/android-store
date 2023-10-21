@@ -1,83 +1,71 @@
-body{
-background-color: black;
-border-color:red;
-border-width:25px;
-border-radius: 25px;
+body {
+  background-color: black;
+  border-color: red;
+  border-width: 25px;
+  border-radius: 25px;
 }
-h1{
-  color:silver;
+
+h1 {
+  color: silver;
   background-color: rgb(188, 0, 0);
   font-family: monospace;
   border-radius: 8px;
-  width:230px;
+  width: 230px;
   border-style: solid;
-  border-color:orange;
-  padding:15px;
+  border-color: orange;
+  padding: 15px;
 }
-input{
-  background-color:rgb(95, 96, 97);
+
+input {
+  background-color: rgb(95, 96, 97);
   border-width: 3px;
-  width:250px;
-  height:25px;
-  border-radius:10px;
+  width: 250px;
+  height: 25px;
+  border-radius: 10px;
   color: rgb(255, 255, 255);
 
 }
-input::placeholder{
-  color:silver;
+
+input::placeholder {
+  color: silver;
   border-radius: 10px;
   font-family: monospace;
 }
-button{
-  background-color:red;
+
+button {
+  background-color: red;
   color: white;
   width: 150px;
   height: 40px;
-  border-radius:25px;
-  border-width:1px;
+  border-radius: 25px;
+  border-width: 1px;
   border-color: orange;
 }
-h2{
-  background:red;
-  color:red;
-  margin:22px;
-}
-#d1{
-background-color:red;
-width:265px;
-height: 232px ;
-border-radius: 8px;
-border-style: solid;
-border-color:orange;
+
+h2 {
+  background: red;
+  color: red;
+  margin: 22px;
 }
 
-a{
-color:silver;
-}
-#fut{
-height: 100px;
-width: 100px;
-}
-
-.container{
-width:100%;
-padding: 1.5rem;
+#d1 {
+  background-color: red;
+  width: 265px;
+  height: 232px;
+  border-radius: 8px;
+  border-style: solid;
+  border-color: orange;
 }
 
-@media (min-width: 1200px} {
-  .container {
-    width: 1150px;
-  }
+a {
+  color: silver;
 }
 
-@media (min-width: 480px) {
-  .container {
-    width: 95px;
-    }
-  }
+#fut {
+  height: 100px;
+  width: 100px;
+}
 
-@media (min-width: 320px) {
-  .container {
-    width: 95px;
-    }
-  }
+
+
+
