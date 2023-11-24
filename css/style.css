@@ -78,9 +78,10 @@ a {
   left:10px;
   margin: 7px;
   border-style: solid;
-  border-color:white;
   width:300px;
   border-radius:20px;
   border-width:5px;
   background-color:white;
+  border-color:red;
+  display:grid;
 }
