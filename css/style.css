@@ -35,7 +35,7 @@ button {
   color: white;
   width: 150px;
   height: 40px;
-  border-radius: 25px;
+  border-radius: 8px;
   border-width: 1px;
   border-color: orange;
 }
@@ -63,4 +63,24 @@ a {
   border-radius: 5px;
   height: 100%;
   width: 100%;
+}
+#dl{
+  color:red;
+  background-color:rgb(188, 0, 0);
+  width:255;
+  border-style: solid;
+  border-color:white;
+  border-radius:2px;
+  border-width: 2px;
+}
+#audio1{
+  position:absolute;
+  left:10px;
+  margin: 7px;
+  border-style: solid;
+  border-color:white;
+  width:300px;
+  border-radius:20px;
+  border-width:5px;
+  background-color:white;
 }
