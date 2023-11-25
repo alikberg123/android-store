@@ -1,4 +1,5 @@
 import requests
-import django
-r = requests.get('https://alikberg123.github.io/android-store/')`1`
+
+r = requests.get("https://alikberg123.github.io/android-store/")
+
 print(r.url)
